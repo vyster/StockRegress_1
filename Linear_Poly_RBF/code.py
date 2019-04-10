@@ -82,5 +82,3 @@ plt.legend()
 plt.show()
 
 # 742.95
- close_prices = []
-dates = []
