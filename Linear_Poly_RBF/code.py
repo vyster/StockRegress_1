@@ -83,3 +83,7 @@ plt.show()
 
 # 742.95
 
+
+
+plt.legend()
+plt.show()
