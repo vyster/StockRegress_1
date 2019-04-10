@@ -29,7 +29,10 @@ with open(f, 'r') as file:
         dates.append(int(row[0].split('-')[0]))
 
 # convert lists to numpy arrays
-
+length_of_dates = len(dates) + 1
+day = []
+day.extend(range(1, length_of_dates))
+day.reverse()
 
 prices_arr = np.reshape(close_prices, (len(close_prices), 1))
 days_arr = np.reshape(day, (len(day), 1))
