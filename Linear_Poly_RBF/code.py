@@ -5,7 +5,8 @@
 # Linear Regression for Stock based on Date
 # Currently only works for month
 
-
+import csv
+import numpy as np
 from sklearn import datasets, linear_model
 from sklearn.svm import SVR
 import matplotlib.pyplot as plt
