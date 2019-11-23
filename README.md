@@ -1,5 +1,5 @@
 # StockRegress_1
-Data Analysis and Machine Learning Techniques to Predict Stock Prices Using Regression Meth.
+Data Analysis and Machine Learning Techniques to Predict Stock Prices Using Regression Method
 
 
 - Creating and Comparing it with various Techniques.
