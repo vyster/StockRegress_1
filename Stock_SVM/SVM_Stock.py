@@ -13,6 +13,7 @@ import matplotlib.pyplot as plt
 
 dates = []
 prices = []
+/live data yahoo*/
 
 def get_data(filename):
 	with open(filename, 'r') as csvfile:
